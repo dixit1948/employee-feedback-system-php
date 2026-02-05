@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Employee Feedback System (PHP & MySQL)
 
 A secure and user-friendly **Employee Feedback System** built using **Core PHP and MySQL**.
@@ -64,7 +63,7 @@ employee-feedback-system-php/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/employee-feedback-system-php.git
+git clone https://github.com/dixit1948/employee-feedback-system-php.git
 ```
 
 ### 2️⃣ Move to Server Directory
@@ -163,7 +162,7 @@ This project is open-source and free to use for:
 **Dixit Pedhadiya**
 Frontend Developer | PHP Developer
 
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [https://github.com/dixit1948](https://github.com/dixit1948)
 
 ---
 
@@ -172,3 +171,4 @@ GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 # employee-feedback-system-php
 Secure Employee Feedback System built with PHP &amp; MySQL
 >>>>>>> 995471ee8bfb5dec647c6da75f0a0ad7fa995f97
+
