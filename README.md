@@ -169,10 +169,6 @@ LinkedIn:[https://www.linkedin.com/in/dixit-pedhadiya-734455302](https://www.lin
 ---
 
 ⭐ If you like this project, don’t forget to star the repository!
-=======
-# employee-feedback-system-php
-Secure Employee Feedback System built with PHP &amp; MySQL
->>>>>>> 995471ee8bfb5dec647c6da75f0a0ad7fa995f97
 
 
 
